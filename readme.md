@@ -19,10 +19,11 @@ I'm currently looking for a **frontend internship** to grow through real-world e
 
 ## 📂 Projects
 
-- 🌤️ [Weather App](https://github.com/mahdinap/weather-app) — Real-time weather info using OpenWeatherMap API  
+- 🌤️ [Weather App](https://github.com/mahdinap/weather-app) — Real-time weather info using OpenWeatherMap API
+- ✅ [To-do List](https://github.com/mahdinap/TodoProApp) — To-do List app svae tasks in local storage.
 
 
-🛠 Coming soon: To-do List • Task Manager • Expense Tracker • News Aggregator • Mini Blog CMS 
+🛠 Coming soon: • Task Manager • Expense Tracker • News Aggregator • Mini Blog CMS 
 
 ---
 
