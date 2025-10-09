@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mahdi — Aspiring Frontend Developer
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,tailwindcss,bootstrap"/>
 
 I'm a self-taught frontend developer passionate about building responsive, user-friendly UIs using modern tools like React and Vite.  
 I'm currently looking for a **frontend internship** to grow through real-world experience and team collaboration.
