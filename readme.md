@@ -9,7 +9,8 @@ I'm currently looking for a **frontend internship** to grow through real-world e
 
 ## 🔧 Tech Stack
 
-- HTML / CSS / JavaScript  
+- HTML / CSS / JavaScript
+- Tailwind css 4 / Bootstrap 5
 - React (Hooks, Components, Props)  
 - Vite, REST APIs  
 - Git & GitHub  
